@@ -19,11 +19,7 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-<<<<<<< HEAD
-#define VENDOR_ID       0x5457
-=======
 #define VENDOR_ID       0xCA75
->>>>>>> origin/master
 #define PRODUCT_ID      0x4014
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Salmon Cat Studio

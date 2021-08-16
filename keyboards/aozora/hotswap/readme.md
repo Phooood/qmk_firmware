@@ -1,10 +1,6 @@
 # Aozora 
 
-<<<<<<< HEAD
 A 65%-Style 69-Key keyboard featuring a cloud-shaped badge. 
-=======
-A 65%-Style 6-Key keyboard featuring a cloud-shaped badge. 
->>>>>>> origin/master
 
 ![SCS Aozora](https://i.imgur.com/dL5nonc.jpg)
 
