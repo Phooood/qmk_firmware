@@ -1,6 +1,6 @@
 # Aozora 
 
-A 65%-Style 6-Key keyboard featuring a cloud-shaped badge. 
+A 65%-Style 69-Key keyboard featuring a cloud-shaped badge. 
 
 ![SCS Aozora](https://i.imgur.com/dL5nonc.jpg)
 
